@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default Spaceship extends React.Component {
+export default class Spaceship extends React.Component {
   render() {
     return (
       <div>
