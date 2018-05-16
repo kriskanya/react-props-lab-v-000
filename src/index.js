@@ -10,6 +10,8 @@ Spaceship.defaultProps = {
 };
 
 ReactDOM.render(
-  <Spaceship name="Millennium Falcon" />,
+  <Spaceship
+    name="Millennium Falcon"
+   />,
   document.getElementById('global')
 );
